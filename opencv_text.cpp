@@ -23,7 +23,7 @@ int main()
     Mat img=imread("../1.jpg");//相对路径ok
     Mat img2=imread("../2.jpg");
     Mat dst;
-    // dst.copyTo(img);
+    
     dst=img.clone();
   
     int ROW=img.rows;
