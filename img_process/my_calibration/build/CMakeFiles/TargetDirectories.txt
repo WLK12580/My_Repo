@@ -1,0 +1,3 @@
+/home/solidworks/git/img_process/my_calibration/build/CMakeFiles/rebuild_cache.dir
+/home/solidworks/git/img_process/my_calibration/build/CMakeFiles/edit_cache.dir
+/home/solidworks/git/img_process/my_calibration/build/CMakeFiles/IMG_Calibration.dir
